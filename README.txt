@@ -12,6 +12,6 @@ Custom Python modules used for modeling, analysis, and plotting.
 results/:
 Stores output files generated from the analysis, including figures and processed data.
 
-main.py:
-
+main.py/:
 Main script to run the case study or generate plots from existing results.
+

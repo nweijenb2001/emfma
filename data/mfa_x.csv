@@ -1,0 +1,134 @@
+,From,To,Country,Lower,Upper
+0,Consumer bottles,Consumer bottles on-the-go,Netherlands,0.3,0.75
+1,Consumer bottles on-the-go,Deposit refund scheme,Netherlands,0.5,0.95
+2,Consumer bottles at home,Deposit refund scheme,Netherlands,0.8,1.0
+3,Consumer bottles on-the-go non-deposit,Mixed waste collection,Netherlands,0.11,0.25
+4,Consumer bottles on-the-go non-deposit,Litter (residential),Netherlands,0.15,0.42
+5,Consumer bottles on-the-go non-deposit,Litter (roads),Netherlands,0.1,0.37
+6,Consumer bottles on-the-go non-deposit,Litter (nature),Netherlands,0.05,0.15
+7,Consumer bottles on-the-go non-deposit,Outdoor air (MP),Netherlands,0.01,0.05
+8,Consumer bottles on-the-go non-deposit,Human (intestines),Netherlands,0.01,0.05
+9,Consumer bottles at home non-deposit,Mixed waste collection,Netherlands,0.1,0.35
+10,Consumer bottles at home non-deposit,Packaging collection,Netherlands,0.05,0.4
+11,Consumer bottles at home non-deposit,Dumping,Netherlands,0.05,0.1
+12,Consumer bottles at home non-deposit,Compost collection (large),Netherlands,0.05,0.4
+13,Consumer bottles at home non-deposit,Compost collection (small),Netherlands,0.01,0.06
+14,Consumer bottles at home non-deposit,Indoor air (MP),Netherlands,0.01,0.03
+15,Consumer bottles at home non-deposit,Human (intestines),Netherlands,0.01,0.03
+16,Dumping,Litter (residential),Netherlands,0.2,0.5
+17,Dumping,Litter (roads),Netherlands,0.0,0.5
+18,Dumping,Litter (nature),Netherlands,0.0,0.5
+19,Floors (MP),Waste water (MP),Netherlands,0.0,1.0
+20,Waste water (MP),WWT (MP),Netherlands,0.5,1.0
+21,Packaging collection,Packaging collected,Netherlands,0.49,1.0
+22,Packaging collected,Packaging recycling,Netherlands,0.0,0.72
+23,Packaging collected,Incineration,Netherlands,0.0,0.7
+24,Packaging collected,Sanitary landfill,Netherlands,0.0,0.2
+25,Packaging collected,Residential soil,Netherlands,0.0,0.1
+26,Mixed waste collection,Mixed waste collected,Netherlands,0.51,1.0
+27,Mixed waste collected,Packaging recycling,Netherlands,0.0,0.73
+28,Mixed waste collected,Incineration,Netherlands,0.0,0.72
+29,Mixed waste collected,Sanitary landfill,Netherlands,0.0,0.2
+30,Mixed waste collected,Residential soil,Netherlands,0.0,0.1
+31,Packaging recycling,Second. material,Netherlands,0.01,0.8
+32,Packaging recycling,Incineration,Netherlands,0.0,0.79
+33,Packaging recycling,Indoor air (MP),Netherlands,0.0,0.1
+34,Packaging recycling,Industry water (MP),Netherlands,0.0,0.1
+35,Industry water (MP),WWT (MP),Netherlands,0.5,0.95
+36,Industry water (MP),Surface water (MP),Netherlands,0.0,0.45
+37,Industry water (MP),Residential soil (MP),Netherlands,0.0,0.05
+38,WWT,No WWT,Netherlands,0.0,0.0
+39,WWT,Secondary WWT,Netherlands,0.5,0.65
+40,WWT,Tertiary WWT,Netherlands,0.35,0.5
+41,Secondary WWT,Sludge,Netherlands,0.09,0.25
+42,Secondary WWT,Surface water,Netherlands,0.0,0.25
+43,Secondary WWT,Incineration,Netherlands,0.5,0.75
+44,Tertiary WWT,Sludge,Netherlands,0.1,0.24
+45,Tertiary WWT,Surface water,Netherlands,0.0,0.26
+46,Tertiary WWT,Incineration,Netherlands,0.5,0.76
+47,Secondary WWT (MP),Sludge (MP),Netherlands,0.1,0.8
+48,Secondary WWT (MP),Surface water (MP),Netherlands,0.1,0.8
+49,Secondary WWT (MP),Subsurface (MP),Netherlands,0.0,0.1
+50,Tertiary WWT (MP),Sludge (MP),Netherlands,0.1,0.7
+51,Tertiary WWT (MP),Surface water (MP),Netherlands,0.1,0.7
+52,Tertiary WWT (MP),Incineration,Netherlands,0.01,0.1
+53,Tertiary WWT (MP),Subsurface (MP),Netherlands,0.0,0.1
+54,Sludge collection (MP),Sanitary landfill (MP),Netherlands,0.0,0.5
+55,Sludge collection (MP),Incineration (MP),Netherlands,0.0,0.55
+56,Sludge collection (MP),Elimination (MP),Netherlands,0.0,0.51
+57,Compost,Agricultural soil,Netherlands,0.8,1.0
+58,Compost collection (large),Agricultural soil,Netherlands,0.0,0.75
+59,Compost collection (large),Residential soil,Netherlands,0.0,0.51
+60,Compost collection (large),Mixed waste collection,Netherlands,0.0,0.5
+61,Litter (residential),Mixed waste collection,Netherlands,0.0,0.5
+62,Litter (residential),Storm water,Netherlands,0.0,0.25
+63,Litter (residential),Surface water,Netherlands,0.0,0.5
+64,Litter (residential),Residential soil,Netherlands,0.0,0.25
+65,Litter (roads),Mixed waste collection,Netherlands,0.5,1.0
+66,Litter (nature),Mixed waste collection,Netherlands,0.0,0.76
+67,Litter (nature),Surface water,Netherlands,0.0,0.51
+68,Litter (nature),Natural soil,Netherlands,0.0,0.49
+69,Not collected,Storm water,Netherlands,0.0,0.34
+70,Not collected,Incineration,Netherlands,0.0,0.82
+71,Not collected,Surface water,Netherlands,0.0,0.56
+72,Not collected,Residential soil,Netherlands,0.0,0.1
+73,Storm water,Surface water,Netherlands,0.0,0.25
+74,Outdoor air (MP),Human (lungs),Netherlands,0.0,0.1
+75,Indoor air (MP),Human (lungs),Netherlands,0.0,0.1
+76,Indoor air (MP),Outdoor air (MP),Netherlands,0.0,0.9
+77,Indoor air (MP),Floors (MP),Netherlands,0.0,0.91
+78,Sludge,Sludge collection,Netherlands,1.0,1.0
+79,Sludge (MP),Sludge collection (MP),Netherlands,1.0,1.0
+80,No WWT,Surface water,Netherlands,1.0,1.0
+81,No WWT (MP),Surface water (MP),Netherlands,1.0,1.0
+82,Incineration,Elimination,Netherlands,1.0,1.0
+83,Incineration (MP),Elimination,Netherlands,1.0,1.0
+84,Human (lungs),Human (intestines),Netherlands,1.0,1.0
+85,Human (intestines),WWT (MP),Netherlands,1.0,1.0
+86,Deposit refund scheme,Packaging recycling,Netherlands,1.0,1.0
+87,Packaging,Consumer bottles,Netherlands,0.414133,0.414133
+88,Air precipitation (MP),Forest soil (MP),Netherlands,0.0991,0.0991
+89,Air precipitation (MP),Grassland soil (MP),Netherlands,0.322,0.322
+90,Air precipitation (MP),Wetland (MP),Netherlands,0.0175,0.0175
+91,Air precipitation (MP),Shrubland soil (MP),Netherlands,0.0,0.0
+92,Air precipitation (MP),Steppe soil (MP),Netherlands,0.0006,0.0006
+93,Air precipitation (MP),Agricultural soil (MP),Netherlands,0.366199999999999,0.366199999999999
+94,Air precipitation (MP),Residential soil (MP),Netherlands,0.1065,0.1065
+95,Air precipitation (MP),Bare soil (MP),Netherlands,0.0017,0.0017
+96,Air precipitation (MP),Inland water (MP),Netherlands,0.0864,0.0864
+97,Natural soil,Forest soil,Netherlands,0.234057628719886,0.234057628719886
+98,Natural soil,Grassland soil,Netherlands,0.760510155880963,0.760510155880963
+99,Natural soil,Shrubland soil,Netherlands,0.0,0.0
+100,Natural soil,Steppe soil,Netherlands,0.00141709966934341,0.00141709966934341
+101,Natural soil,Bare soil,Netherlands,0.00401511572980633,0.00401511572980633
+102,Surface water,Wetland,Netherlands,0.168431183830606,0.168431183830606
+103,Surface water,Inland water,Netherlands,0.831568816169393,0.831568816169393
+104,Surface water (MP),Wetland (MP),Netherlands,0.168431183830606,0.168431183830606
+105,Surface water (MP),Inland water (MP),Netherlands,0.831568816169393,0.831568816169393
+106,Natural soil (MP),Forest soil,Netherlands,0.234057628719886,0.234057628719886
+107,Natural soil (MP),Grassland soil,Netherlands,0.760510155880963,0.760510155880963
+108,Natural soil (MP),Shrubland soil,Netherlands,0.0,0.0
+109,Natural soil (MP),Steppe soil,Netherlands,0.00141709966934341,0.00141709966934341
+110,Natural soil (MP),Bare soil,Netherlands,0.00401511572980633,0.00401511572980633
+111,WWT (MP),No WWT (MP),Netherlands,0.0,0.0
+112,WWT (MP),Secondary WWT (MP),Netherlands,0.5,0.65
+113,WWT (MP),Tertiary WWT (MP),Netherlands,0.35,0.5
+114,Compost collection (small),Agricultural soil,Netherlands,0.0,0.75
+115,Compost collection (small),Residential soil,Netherlands,0.0,0.51
+116,Compost collection (small),Mixed waste collection,Netherlands,0.0,0.5
+117,Compost (MP),Agricultural soil (MP),Netherlands,0.8,1.0
+118,Compost (MP),Residential soil (MP),Netherlands,0.0,0.19999999999999996
+119,Sludge collection,Sanitary landfill,Netherlands,0.0,0.5
+120,Sludge collection,Incineration,Netherlands,0.0,0.55
+121,Sludge collection,Elimination,Netherlands,0.0,0.51
+122,Waste water (MP),Subsurface (MP),Netherlands,0.0,0.5
+123,Consumer bottles,Consumer bottles at home,Netherlands,0.25,0.7
+124,Consumer bottles on-the-go,Consumer bottles on-the-go non-deposit,Netherlands,0.050000000000000044,0.5
+125,Consumer bottles at home,Consumer bottles at home non-deposit,Netherlands,0.0,0.19999999999999996
+126,Packaging collection,Not collected,Netherlands,0.0,0.51
+127,Mixed waste collection,Not collected,Netherlands,0.0,0.49
+128,Compost,Residential soil,Netherlands,0.0,0.19999999999999996
+129,Litter (roads),Road side,Netherlands,0.0,0.5
+130,Storm water,WWT,Netherlands,0.75,1.0
+131,Outdoor air (MP),Air precipitation (MP),Netherlands,0.9,1.0
+132,Floors (MP),Mixed waste collection,Netherlands,0.0,1.0

@@ -1,0 +1,63 @@
+,From,To,Polymer,Lower,Upper
+0,Agricultural soil,Agricultural soil (MP),PET,0.0,0.1
+1,Bare soil,Bare soil (MP),PET,0.0,0.1
+2,Forest soil,Forest soil (MP),PET,0.0,0.1
+3,Beach,Beach (MP),PET,0.0,0.1
+4,Freshwater sediment,Freshwater sediment (MP),PET,0.0,0.1
+5,Grassland soil,Grassland soil (MP),PET,0.0,0.11
+6,Residential soil,Residential soil (MP),PET,0.0,0.1
+7,Road side,Roadside (MP),PET,0.0,0.1
+8,Shoreline,Shoreline (MP),PET,0.0,0.1
+9,Steppe soil,Steppe soil (MP),PET,0.0,0.1
+10,Shrubland soil,Shrubland soil (MP),PET,0.0,0.1
+11,Subsurface,Subsurface (MP),PET,0.0,0.1
+12,Ocean sediment,Ocean sediment (MP),PET,0.0,0.1
+13,Freshwater sediment (MP),Biota (MP),PET,0.0,0.15
+14,Inland water (MP),Biota (MP),PET,0.0,0.05
+15,Inland water (MP),Freshwater sediment (MP),PET,0.0,0.58
+16,Inland water (MP),Ocean (MP),PET,0.0,0.29
+17,Inland water (MP),Shoreline (MP),PET,0.0,0.1
+18,Inland water (MP),Inland water (MP),PET,0.0,0.6
+19,Ocean (MP),Biota (MP),PET,0.1,0.1
+20,Ocean (MP),Beach (MP),PET,0.1499999999999998,0.15
+21,Ocean (MP),Ocean sediment (MP),PET,0.2499999999999888,0.25
+22,Ocean (MP),Ocean (MP),PET,0.5,0.5
+23,Wetland (MP),Biota (MP),PET,0.0,0.1
+24,Wetland (MP),Freshwater sediment (MP),PET,0.0,0.1
+25,Wetland (MP),Ocean (MP),PET,0.0,0.07
+26,Wetland (MP),Shoreline (MP),PET,0.0,0.23
+27,Wetland (MP),Wetland (MP),PET,0.5,0.95
+28,Biota (MP),Human (intestines),PET,0.0,0.1
+29,Inland water,Inland water (MP),PET,0.0,0.86
+30,Inland water,Inland water,PET,0.0,0.86
+31,Inland water,Ocean,PET,0.0,0.06
+32,Inland water,Shoreline,PET,0.0,0.04
+33,Inland water,Freshwater sediment,PET,0.0,0.04
+34,Ocean,Ocean (MP),PET,0.0,0.01
+35,Ocean,Ocean,PET,0.0,0.9
+36,Ocean,Beach,PET,0.0,0.1
+37,Ocean,Ocean sediment,PET,0.0,0.89
+38,Sanitary landfill,Sanitary landfill,PET,0.51,0.9
+39,Sanitary landfill,Natural soil,PET,0.0,0.15
+40,Sanitary landfill,Residential soil,PET,0.0,0.15
+41,Sanitary landfill,Surface water,PET,0.0,0.22
+42,Wetland,Wetland (MP),PET,0.0,0.09
+43,Wetland,Wetland,PET,0.5,0.9
+44,Wetland,Freshwater sediment,PET,0.0,0.1
+45,Wetland,Ocean,PET,0.0,0.1
+46,Wetland,Shoreline,PET,0.0,0.23
+47,Subsurface,Subsurface,PET,0.9,1.0
+48,Shrubland soil,Shrubland soil,PET,0.9,1.0
+49,Steppe soil,Steppe soil,PET,0.9,1.0
+50,Shoreline,Shoreline,PET,0.9,1.0
+51,Road side,Road side,PET,0.9,1.0
+52,Residential soil,Residential soil,PET,0.9,1.0
+53,Grassland soil,Grassland soil,PET,0.89,1.0
+54,Freshwater sediment,Freshwater sediment,PET,0.9,1.0
+55,Beach,Beach,PET,0.9,1.0
+56,Forest soil,Forest soil,PET,0.9,1.0
+57,Bare soil,Bare soil,PET,0.9,1.0
+58,Agricultural soil,Agricultural soil,PET,0.9,1.0
+59,Ocean sediment,Ocean sediment,PET,0.9,1.0
+60,Biota (MP),Biota (MP),PET,0.9,1.0
+61,Freshwater sediment (MP),Freshwater sediment (MP),PET,0.85,1.0

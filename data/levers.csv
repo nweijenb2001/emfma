@@ -1,0 +1,18 @@
+policy,type,source,target,value
+Reduce,mfa,Packaging,Consumer bottles,0.9
+Capture,mfa,Packaging recycling,Indoor air (MP),0.9
+Capture,mfa,Packaging recycling,Industry water (MP),0.9
+Clean,mfa,Litter (roads),Mixed waste collection,1.1
+Clean,mfa,Litter (nature),Mixed waste collection,1.1
+Clean,mfa,Litter (residential),Mixed waste collection,1.1
+Return,mfa,Consumer bottles on-the-go,Deposit refund scheme,1.1
+Return,mfa,Consumer bottles at home,Deposit refund scheme,1.1
+Homogenize,mfa,Packaging collected,Packaging recycling,1.1
+Homogenize,mfa,Mixed waste collected,Packaging recycling,1.1
+Manage,mfa,Packaging collection,Not collected,0.9
+Manage,mfa,Mixed waste collection,Not collected,0.9
+Redesign,mfa,Consumer bottles on-the-go non-deposit,Human (intestines),0.9
+Redesign,mfa,Consumer bottles on-the-go non-deposit,Outdoor air (MP),0.9
+Redesign,mfa,Consumer bottles at home non-deposit,Human (intestines),0.9
+Redesign,mfa,Consumer bottles at home non-deposit,Indoor air (MP),0.9
+Extract,mfa,Sanitary landfill,Packaging recycling,0.1

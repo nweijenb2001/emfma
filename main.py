@@ -72,6 +72,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning) # Suppress Future
 last_status_length = 0 # Initialize status length for message updating
 
 # File paths for reloading case study results (when newrun = False)
+# To reload the second model run, use df-2, robustness-2, and vulnerability-2
 df_path = os.path.join(rfolder, 'df.pkl')
 robustness_path = os.path.join(rfolder, 'robustness.pkl')
 vulnerability_path = os.path.join(rfolder, 'vulnerability.pkl')
